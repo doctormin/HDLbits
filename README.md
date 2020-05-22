@@ -40,3 +40,4 @@ Yimin's solutions to verilog practices on [HDLbits](https://hdlbits.01xz.net/wik
         ├── vectors-in-more-detail.v
         └── vectors.v
 ```
+*Inspired By [@BugenZhao](https://github.com/bugenzhao)*
